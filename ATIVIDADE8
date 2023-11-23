@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Descubra um ponto turístico incrível na minha cidade.">
+    <meta name="keywords" content="cidade, turismo, ponto turístico">
+    <meta name="author" content="Seu Nome">
+    <title>Ponto Turístico na Minha Cidade</title>
+    <style>
+        /* Estilos CSS - mantive os estilos do exemplo anterior */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ponto Turístico na Minha Cidade</h1>
+    </header>
+
+    <section>
+        <h2>Título do Ponto Turístico</h2>
+        <p>Conheça o incrível [Nome do Ponto Turístico] na minha cidade. Este lugar é conhecido por [breve descrição ou história].</p>
+
+        <img src="imagem1.jpg" alt="Imagem do Ponto Turístico 1">
+        <p>Legenda ou descrição da imagem.</p>
+
+        <p>Além disso, você pode apreciar a vista panorâmica da cidade a partir deste ponto. Não perca a oportunidade de explorar a cultura local e desfrutar de momentos inesquecíveis.</p>
+
+        <img src="imagem2.jpg" alt="Imagem do Ponto Turístico 2">
+        <p>Legenda ou descrição da segunda imagem.</p>
+
+        <p>Visitar [Nome do Ponto Turístico] é uma experiência única que você não vai querer perder. Venha conhecer e se encantar!</p>
+
+        <!-- Adicione um link para a nova página -->
+        <p>Descubra também os lugares que eu mais gosto de frequentar na cidade. <a href="lugares-favoritos.html">Clique aqui</a>.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Ponto Turístico na Minha Cidade. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
